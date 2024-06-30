@@ -1,2 +1,2 @@
 # data-science-coursera
-This repo shows my data science learning process
+This repo is used to store the ipynb and py files of capstone project in data science coursera
